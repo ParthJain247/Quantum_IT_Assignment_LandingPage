@@ -1,0 +1,19 @@
+.footer_backdrop{
+    background-image: linear-gradient(rgba(0, 99, 141, 0.5), rgba(0, 99, 141, 0.5)), url(../images/contact.jpg);
+  background-size: cover;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  padding:5%;
+  color: white;
+  
+}
+.transparent-input {
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+  width:35vw;
+}
+
+.transparent-input::placeholder {
+  color: white;
+}

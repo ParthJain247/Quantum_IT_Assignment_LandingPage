@@ -1,0 +1,11 @@
+.play-btn{
+    position:absolute;
+    left:-4.5vw;
+    top:40%;
+}
+
+ @media (max-width: 1090px) {
+    .play-btn {
+      left: -30px; 
+    }
+  } 
